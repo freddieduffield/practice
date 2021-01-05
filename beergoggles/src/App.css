@@ -1,0 +1,47 @@
+* {
+  font-family: 'Poppins', sans-serif;
+}
+
+body {
+  text-align: center;
+}
+
+.display-none {
+  display: none;
+}
+
+.heading {
+  font-size: 4rem;
+  margin-top: 10rem;
+}
+
+.search-form {
+  border: 1px solid black;
+  border-radius: 25px;
+  width: 50%;
+  height: 3rem;
+  padding: 1px;
+  margin: 0 auto;
+}
+
+.search-input {
+  border: none;
+  border-radius: 25px;
+  height: 96%;
+  width: 96%;
+  font-size: 1.5rem;
+}
+
+.search-button {
+  background: none;
+  border: none;
+  font-size: 1.5rem;
+}
+
+img {
+  height: 33vh;
+}
+
+h2 {
+  font-weight: 200;
+}
